@@ -14,6 +14,8 @@ By using R tool, I made:
 
 5. regression models
 
-Please find my report: Motor Insurance Co Report.pdf above or visit
+Please find my report Motor Insurance Co Report.pdf above or visit
+
+https://github.com/chris-ip/Analysis-of-a-Motor-Insurance-Company/blob/1af7318902222bd9e5e7b1fb87001b6a31b27c37/Motor%20Insurance%20Co%20Report.pdf
 
 I hope you enjoy my work. Cheers!
