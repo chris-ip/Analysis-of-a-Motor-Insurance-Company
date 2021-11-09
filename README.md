@@ -14,8 +14,8 @@ By using R tool, I made:
 
 5. regression models
 
-My report (https://github.com/chris-ip/Analysis-of-a-Motor-Insurance-Company/blob/1af7318902222bd9e5e7b1fb87001b6a31b27c37/Motor%20Insurance%20Co%20Report.pdf)
+My report: (https://github.com/chris-ip/Analysis-of-a-Motor-Insurance-Company/blob/1af7318902222bd9e5e7b1fb87001b6a31b27c37/Motor%20Insurance%20Co%20Report.pdf)
 
-R file (https://github.com/chris-ip/Analysis-of-a-Motor-Insurance-Company/blob/a95cecfffd34f3b2af1b352ad8c7a54e4f16d726/Motor%20Insurance%20Co.R)
+R file: (https://github.com/chris-ip/Analysis-of-a-Motor-Insurance-Company/blob/a95cecfffd34f3b2af1b352ad8c7a54e4f16d726/Motor%20Insurance%20Co.R)
 
 I hope you enjoy my work. Cheers!
